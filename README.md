@@ -1,4 +1,4 @@
-# Shark Attacl
+# Shark AttacK
 
   Project status(Active)
 
@@ -7,26 +7,23 @@ Este projeto se concentra na limpeza e análise do banco de dados shark attack d
 
 
 # Methods
+  - Filtragem
+  - Visualização
 
-  List with methods, ex:
-  - Filtering
-  - Grouping
-  - Visualization
 # Technologies 
-
-  List with used technologies, ex:
   - Python
   - Pandas
-  - MySQL
+
 # Project Description
 
-  Paragraph with a description of the dataset, sources, characteristics ,etc.
+  shark attack database (from the Global Shark Attack File's)
 
 # Steps
   Add here any insights you had during the project
 
 # Conclusion
-  Final conclusion
+  De acordo com os dados, o país que tem mais ataques de tubarão é o Estados Unidos, seguido por Austrália. A área com maior ocorrência é na Florida/Estados Unidos e New South Wales/Austrália.
+Análisando os casos de fatalidade, do total de 1056 casos, 903 não fatal, 79 são desconhecido e 74 foram fatais, sendo 2011 o ano que mais teve casos fatais.    
   
 # Contact
   linkedin, github, medium, etc 
