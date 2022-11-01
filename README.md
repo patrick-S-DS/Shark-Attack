@@ -1,9 +1,11 @@
-# Project Name
+# Shark Attacl
 
-  Project status(Active, On-Hold, Completed)
+  Project status(Active)
+
 # Project objective
+Este projeto se concentra na limpeza e análise do banco de dados shark attack database (from the Global Shark Attack File's), fazendo uma breve análise dos ataques de tubarão no mundo, vamos tentar determinar qual área com maior número de ataques de tubarão entre o ano de 2010 e 2018. 
 
-  Paragraph with introduction/ objective of project
+
 # Methods
 
   List with methods, ex:
