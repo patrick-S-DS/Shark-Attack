@@ -25,6 +25,7 @@ Na análise dos casos, do total de 1056 casos, 903 não fatal, 79 são desconhec
   
 # Contact
   <a href="https://www.linkedin.com/in/patrick-santos-1823b4233/">Linkedin</a>
+
   <a href="https://github.com/patrick-S-DS">Github</a>
   
  
