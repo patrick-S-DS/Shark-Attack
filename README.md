@@ -24,7 +24,7 @@
 Na análise dos casos, do total de 1056 casos, 903 não fatal, 79 são desconhecidos e 74 foram fatais, sendo 2011 o ano que mais teve casos fatais.    
   
 # Contact
-  <a href="Linkedin">https://www.linkedin.com/in/patrick-santos-1823b4233/</a>
-  <a href="Github">https://github.com/patrick-S-DS</a>
+  <a href="https://www.linkedin.com/in/patrick-santos-1823b4233/">Linkedin</a>
+  <a href="https://github.com/patrick-S-DS">Github</a>
   
  
