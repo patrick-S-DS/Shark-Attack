@@ -2,7 +2,7 @@
 
 
 # Project objective
- Treinamento do bootcamp de limpeza e análise do banco de dados Shark Attack database (from the Global Shark Attack File's)
+ Treinamento do bootcamp de limpeza e análise do banco de dados Shark Attack database (from the Global Shark Attack File's) para tentar determinar qual área com maior número de ataques de tubarão entre o ano de 2010 e 2018.
 
 
 # Methods
@@ -17,6 +17,10 @@
 # Project Description
   Este projeto se concentra na limpeza e análise do banco de dados Shark Attack database (from the Global Shark Attack File's), fazendo uma breve análise dos ataques de tubarão no mundo, vamos tentar determinar qual área com maior número de ataques de tubarão entre o ano de 2010 e 2018 e uma análise dos casos de fatalidade.
 
+  -Primeiro fiz uma análise geral dos dados;
+
+  -Elimeinei as duas colunas que tinham a maioria de dados nulos;
+
   -Primeira análise foi limpeza de nulos da coluna 'Year'; 
 
   -Criei uma máscara para ver só os dados a partir de 2010;
@@ -30,7 +34,7 @@
   -Transformei nulos em desconhecido;
 
   -Determinei a quantidade de ataques fatal, não fatal e desconhecidos;
-  
+
   -Determinei o ano que mais teve fatalidade.
 
 # Conclusion
