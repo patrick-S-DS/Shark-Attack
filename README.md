@@ -18,7 +18,9 @@
   Este projeto se concentra na limpeza e análise do banco de dados Shark Attack database (from the Global Shark Attack File's), fazendo uma breve análise dos ataques de tubarão no mundo, vamos tentar determinar qual área com maior número de ataques de tubarão entre o ano de 2010 e 2018 e uma análise dos casos de fatalidade.
 
   -Primeira análise foi limpeza de nulos da coluna 'Year'; 
+
   -Criei uma máscara para ver só os dados a partir de 2010;
+  
   -Limpeza dos nulos das colunas 'Country', 'Area' e 'Location';
   -Fiz análise de qual país mais tem ataques, depois em qual área;
   -Limpeza da coluna de fatalidade;
