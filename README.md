@@ -19,7 +19,7 @@
 
 
 # Conclusion
-  De acordo com os dados, o país que tem mais ataques de tubarão é o Estados Unidos, seguido por Austrália. A área com maior ocorrência é na Florida/Estados Unidos e New South Wales/Austrália.
+  De acordo com os dados, o país que tem mais ataques de tubarão é os Estados Unidos, seguido por Austrália. A área com maior ocorrência é na Florida/Estados Unidos e New South Wales/Austrália.
 Na análise dos casos, do total de 1056 casos, 903 não fatal, 79 são desconhecidos e 74 foram fatais, sendo 2011 o ano que mais teve casos fatais.    
   
 # Contact
