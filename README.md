@@ -20,12 +20,17 @@
   -Primeira análise foi limpeza de nulos da coluna 'Year'; 
 
   -Criei uma máscara para ver só os dados a partir de 2010;
-  
+
   -Limpeza dos nulos das colunas 'Country', 'Area' e 'Location';
+
   -Fiz análise de qual país mais tem ataques, depois em qual área;
+
   -Limpeza da coluna de fatalidade;
+
   -Transformei nulos em desconhecido;
+
   -Determinei a quantidade de ataques fatal, não fatal e desconhecidos;
+  
   -Determinei o ano que mais teve fatalidade.
 
 # Conclusion
